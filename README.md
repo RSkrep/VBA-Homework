@@ -18,5 +18,4 @@ Lastly, the VBA code needed to be altered to make sure that it would run through
 
 The worksheet function code used in the code was provided by the course instructional assistant Pankaj Gautam
 
-Due to issues with excel on my laptop, my code only works on my practice sheet and not the final sheet. Therefore, I will be providing screenshots of the practice sheet. The code was given to Pankaj to test on a stronger more reliable computer and worked successfully on the true data sheet for him. 
 
